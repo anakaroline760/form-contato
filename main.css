@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(171, 235, 235);
+}
+button{
+    background-color: rgb(170, 207, 207);
+    width: 100;
+    height: 30;
+    color: aliceblue;
+    font-weight: bolder;
+}
